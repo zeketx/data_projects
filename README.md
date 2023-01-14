@@ -1,2 +1,2 @@
-# etl_v1
-taking some data from local public transportation and loading to BigQuery for analysis
+# etl bucket
+Will be housing some examples of ETLs I use or want to play with
