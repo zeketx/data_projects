@@ -11,7 +11,7 @@ This Python script retrieves data on ridership from the Texas Government Data AP
 - time
 - pandas
 - requests
-- json
+- jsongit 
 - logging
 - pytz
 - pyarrow
@@ -40,4 +40,4 @@ graph LR
 A[ATX METRO] -- API --> B((Transform Schema))
 B --> D{GCP}
 ```
-<iframe src="https://lookerstudio.google.com/reporting/fed18d4c-4bdd-4600-8661-4e32f2631f1c" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+![alt text](https://drive.google.com/file/d/1mMiuigjOCsGKmjTDrAxXfTGfn5NbTJ_Q/view?usp=share_link)
