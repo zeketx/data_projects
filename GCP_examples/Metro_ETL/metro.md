@@ -40,4 +40,4 @@ graph LR
 A[ATX METRO] -- API --> B((Transform Schema))
 B --> D{GCP}
 ```
-![alt text](https://drive.google.com/file/d/1mMiuigjOCsGKmjTDrAxXfTGfn5NbTJ_Q/view?usp=share_link)
+[![N|LookerStudio_Metro_ETL](https://drive.google.com/uc?export=view&id=1mMiuigjOCsGKmjTDrAxXfTGfn5NbTJ_Q)](https://lookerstudio.google.com/reporting/fed18d4c-4bdd-4600-8661-4e32f2631f1c)
